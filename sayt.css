@@ -36,6 +36,7 @@ ul li{
     background-color: #8490ff;
     border: none;
     margin: 30px 0px;
+    color: white;
 }
 .container{
     max-width: 980px;
@@ -45,14 +46,6 @@ ul li{
 .about{
    float: right;
    width: 50%;
-
-
-}
-.view{
-    margin: 10px 0px;
-    padding: 10px 30px;
-    border: none;
-    background-color: #8490ffe1;
 }
 .new{
     clear: both;
@@ -64,4 +57,13 @@ ul li{
 .personal{
     padding-top: 120px;
     width: 100%;
+}
+.web{
+    width: 350px;
+    float: left;
+    padding: 50px 30px;
+    text-align: center;
+}
+.web p{
+    font-size: 15px;
 }
